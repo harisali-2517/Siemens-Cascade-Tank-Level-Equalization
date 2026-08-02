@@ -9,4 +9,4 @@ A dual-tank fluid balancing architecture programmed on a **Siemens S7-1200 (CPU 
 
 ### 📂 Repository Files
 * **Ladder_Logic.pdf:** PDF export of the Main OB1 ladder logic and arithmetic blocks.
-* **Cascade_Equalization_Archive.zap15:** Raw TIA Portal V15 archive file.
+* **Cascade_Tank_Equalization_Archive.zap15:** Raw TIA Portal V15 archive file.
